@@ -5,3 +5,22 @@ body {
 .car {
   height: 145px;
 }
+
+.car-north {
+  height: 145px;
+  transform: rotate(270deg);
+}
+
+.car-south {
+  height: 145px;
+  transform: rotate(90deg);
+}
+
+.car-west {
+  height: 145px;
+  transform: rotate(180deg);
+}
+
+.car-east {
+  height: 145px;
+}
